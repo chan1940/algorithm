@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea6b207-ce69-46d7-b8dd-61a3b5fefbc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/Baek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/src/p10815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/src/p1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/src/p17219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/src/p2512.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baek/unsolve/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/src/p41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/src/p42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Uc32f1HXNlEL14jRXA3MHOkoUZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea6b207-ce69-46d7-b8dd-61a3b5fefbc1" name="Changes" comment="" />
+      <created>1693224839978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693224839978</updated>
+      <workItem from="1693224841014" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
